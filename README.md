@@ -1,4 +1,5 @@
-# Video #255 - Cheap PWM Pond Pump Speed Controller - any good?
+# Video #255 - Cheap PWM Pond Pump Speed Controller!
+![Thumbnail-00012 (Custom)](https://user-images.githubusercontent.com/20911308/205935935-e44f91d2-ef94-4abe-9c7c-0cd055ecd4b5.png)  
 ### Video link: https://youtu.be/QAfrLm-XoCE  
 ---
 ### 2022 PCBWay Christmas BIG SALE - Check it out!  
